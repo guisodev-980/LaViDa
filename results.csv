@@ -1,0 +1,39 @@
+ID,TEST,SUBJECT,GROUP,DAY,TRY_N,VIDEO,CAD_BY,S_WIDTH,S_HEIGHT,MASK_X,MASK_Y,MASK_R,STATUS,IMG_TRAJ,TIME,SPEED,DISTANCE,Q1,Q2,Q3,Q4,TGM_T,TGM_R,CENTER_T
+1,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj01-Ggrupo01-D01-T01 - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj01-Ggrupo01-D01-T01.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (10) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (10).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (11) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (11).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (12) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (12).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (13) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (13).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (14) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (14).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (15) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (15).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (16) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (16).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (17) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (17).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (18).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (2) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (2).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (3) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (3).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (4) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (4).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (5) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (5).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (6) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (6).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (7) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (7).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (8) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (8).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (9) - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia (9).mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Nado-Ssuj02-Ggrupo02-D2-T2 - Copia.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,No_Cad_Test,No_Cad_Sub,No_Cad_Group,No_Cad_Day,No_Cad_Try,Prob-Ssuj10-Ggrupo10-D01-T01.mp4,No_Cad,960,720,0,0,0,pendente,No_Traj,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
