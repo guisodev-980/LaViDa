@@ -16,8 +16,6 @@ from data.models import Const_Vars
 from services import users_man
 from data import crud
 
-#pyinstaller --onefile --windowed --icon="C:\Users\Guiso\Desktop\Dev\LaViDa\imgs\LaViDa_Tecla.png" main.py --add-data "C:\Users\Guiso\Desktop\Dev\LaViDa\screens\themes:themes" --add-data "C:\Users\Guiso\Desktop\Dev\LaViDa\imgs:imgs" --add-data "C:\Users\Guiso\Desktop\Dev\LaViDa\data\users_db.db:data/users_db.db
-
 class Main_Screen(QWidget):
 
    def __init__(self):
@@ -185,9 +183,9 @@ class Main_Screen(QWidget):
       self.setWindowOpacity(0.8)
       dialog = Login_Frame(self)
       if dialog.exec():
-         dialog.login_sucess.connect(self.frm_home.home_update_user())
-         dialog.login_sucess.connect(self.frm_reg.fill_user())
-         dialog.login_sucess.connect(self.main_update_user())
+         dialog.login_sucess.connect(self.frm_home.home_update_user)
+         dialog.login_sucess.connect(self.frm_reg.fill_user)
+         dialog.login_sucess.connect(self.main_update_user)
          self.setEnabled(True)
          self.setWindowOpacity(1.0)
          
